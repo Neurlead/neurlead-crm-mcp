@@ -1,0 +1,11 @@
+{
+  "name": "neurlead-crm",
+  "version": "1.0.1",
+  "description": "Run your home-service CRM from your AI assistant: see who is waiting for a reply, draft replies and estimates from your own price list, check the schedule and unpaid invoices.",
+  "mcpServers": {
+    "neurlead-crm": {
+      "httpUrl": "https://mcp.neurlead.com/connect/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

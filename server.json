@@ -1,0 +1,34 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.neurlead/crm",
+  "title": "NeurLead AI CRM",
+  "description": "CRM and AI dispatcher for home-service businesses: leads, chats, estimates, schedule, team.",
+  "version": "1.0.1",
+  "websiteUrl": "https://neurlead.com/connect",
+  "icons": [
+    {
+      "src": "https://neurlead.com/brand/neurlead-icon-ink-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://neurlead.com/brand/neurlead-icon-ink.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.neurlead.com/connect/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/Neurlead/neurlead-crm-mcp",
+    "source": "github"
+  }
+}

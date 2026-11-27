@@ -1,0 +1,20 @@
+{
+  "name": "neurlead-crm",
+  "owner": {
+    "name": "NeurLead",
+    "email": "hello@neurlead.com"
+  },
+  "metadata": {
+    "description": "CRM for home-service companies in your AI chat: leads, replies, estimates, schedule, invoices."
+  },
+  "plugins": [
+    {
+      "name": "neurlead-crm",
+      "source": "./",
+      "description": "CRM for home-service companies in your AI chat: leads, replies, estimates, schedule, invoices.",
+      "version": "1.0.1",
+      "category": "productivity",
+      "homepage": "https://neurlead.com/connect"
+    }
+  ]
+}

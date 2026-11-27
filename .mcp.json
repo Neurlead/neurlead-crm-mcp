@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "neurlead-crm": {
+      "type": "http",
+      "url": "https://mcp.neurlead.com/connect/mcp"
+    }
+  }
+}

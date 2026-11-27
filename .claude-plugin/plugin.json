@@ -1,0 +1,19 @@
+{
+  "name": "neurlead-crm",
+  "version": "1.0.1",
+  "description": "CRM for home-service companies in your AI chat: leads, replies, estimates, schedule, invoices.",
+  "author": {
+    "name": "NeurLead",
+    "email": "hello@neurlead.com",
+    "url": "https://neurlead.com"
+  },
+  "homepage": "https://neurlead.com/connect",
+  "repository": "https://github.com/Neurlead/neurlead-crm-mcp",
+  "keywords": [
+    "crm",
+    "home-services",
+    "field-service",
+    "dispatch",
+    "mcp"
+  ]
+}
